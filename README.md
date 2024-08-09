@@ -1,4 +1,4 @@
-# Github Backup Solutions
+# Github Backup Approaches
 
 What's stopping you from making more liberal use of the amazing features that Github has to offer for open-sourcing projects, discovering and contributing to other codebases, etc? 
 
@@ -24,6 +24,14 @@ Over time I aim to include, at least:
 I enjoy writing in markdown and so many of my repos just consist of `.md` files. This one will probably continue in a similar format although I will add a few scripts as I create them.
 
 ## Repository Map
+
+### Commercial Github Backup Solutions
+
+These are listed in a file by that name (more or less) in the main repo.
+
+### Github Github Backup Projects
+
+Backup scripts and utilities for Github authored by third parties and shared on Github (for the most part). These are typically community driven non-commercial open-source projects.
 
 ## Author
 
